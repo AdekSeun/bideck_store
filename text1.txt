@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 681A-560C
+
+ Directory of C:\Users\Home\Desktop\gitVERSIOB
+
+07/20/2021  11:40 PM    <DIR>          .
+07/20/2021  11:40 PM    <DIR>          ..
+07/20/2021  11:40 PM                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  50,900,332,544 bytes free
